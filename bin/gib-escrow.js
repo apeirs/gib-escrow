@@ -75,7 +75,7 @@ try {
     for (const r of ended) total[r.symbol] = (total[r.symbol] || 0) + r.remaining;
     console.log(`${ended.length} ended bounties still hold money in escrow: ${Object.entries(total).map(([k, v]) => `${fmt(v)} ${k}`).join(', ') || 'none'}\n`);
     for (const r of rows) {
-      const state = r.ended ? 'ended ' : r.ended === false ? 'open  ' : '?     ';
+      const state = r.ended ? 'ended ' : r.ended === false ? 'open  ' : 'no-api'; // no-api: Gibwork's API has no such task (404)
       console.log(`${state} ${(fmt(r.remaining) + ' ' + r.symbol).padStart(10)}  ${(r.deadline ?? '').slice(0, 10).padEnd(10)}  ${(r.creator ?? '?').slice(0, 16).padEnd(16)}  ${(r.title ?? r.taskId).slice(0, 52)}`);
     }
   } else if (cmd === 'refund' && target) {

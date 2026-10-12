@@ -1,0 +1,27 @@
+48 live escrows on chain, 8 bounties on the open feed
+
+      left    listed  subs  left/sub  title
+ 1000 USDC      1000    11     83.33  Gibwork Developer Hackathon Bounty
+  300 USDC       300    45      6.52  Create a UGC Video Bounty for the Gibwork Mobile App
+200 CREDITS       200    45      4.35  Create an X Thread About the Gibwork Mobile App Bounty  [!]
+30.00 USDC     30.00    12      2.31  Invite a UGC Creator to Gibwork and Get a Reply — Round 2
+  125 USDC       125    91      1.36  Invite Users, Earn Points, and Climb the Leaderboard
+10.00 USDC     10.00    51      0.19  Follow, Quote Post & Join the $RKS Telegram
+25.00 USDC       100   232      0.11  What Would You Tell a Friend About BASIS? Pick ONE angle
+120 CREDITS         -     -         -  (not on the open feed) cc14599e-ed38-4bdc-b55a-09cd8f8c1010  [!]
+60.00 USDC         -     -         -  (not on the open feed) 25e7bc36-d09a-5236-8eeb-930200b08446
+50.00 USDC         -     -         -  (not on the open feed) ce839876-bf1f-42b7-914b-dd59f8fea1fb
+25.00 USDC         -     -         -  (not on the open feed) 6d655bbb-80f2-48ed-8dab-63416dea1842
+25.00 USDC         -     -         -  (not on the open feed) c2264782-14a4-4c5b-973f-2158f13f9673
+25.00 USDC         -     -         -  (not on the open feed) 0695edbb-c9c1-4dcd-a257-496658d0cb09
+20.00 USDC         -     -         -  (not on the open feed) d47feaff-8dcd-4831-89df-0a1ea2209fb2
+20.00 USDC         -     -         -  (not on the open feed) 44fd579f-11e2-47e2-b19e-7698151df1dd
+19.00 USDC         -     -         -  (not on the open feed) f8d270dd-99ba-43d7-8172-2859565bbb88
+17.00 USDC         -     -         -  (not on the open feed) ccb7c1c5-c524-4cd1-9ab0-8ba08ad18e65
+17.00 USDC         -     -         -  (not on the open feed) b3efd4c5-3eed-47ed-9159-4acdc7eb648c
+10.00 USDC         -     -         -  (not on the open feed) 675c222b-28f9-42b6-8de8-d938617efb74
+10.00 USDC         -     -         -  (not on the open feed) d389b565-8c47-4de6-ac4f-22f9170223e7
+10.00 USDC         -     -         -  (not on the open feed) e7237c35-535b-483f-96fa-0aa23e663082
+10.00 USDC         -     -         -  (not on the open feed) 60f10be7-4055-4765-a4d3-7de68c170cd3
+
+[!] reward token has a Token-2022 permanent delegate: the issuer can move it out of the escrow at any time

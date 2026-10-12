@@ -1,0 +1,10 @@
+✔ decodes the escrow state account (1.312471ms)
+✔ rejects accounts that are not escrow states (0.237158ms)
+✔ derives the same state and vault PDAs as mainnet (1.967434ms)
+✔ parses task ids from UUIDs and gib.work URLs (0.201176ms)
+✔ base58 matches the known encoding of a public key (0.216005ms)
+✔ verdicts (0.16154ms)
+✔ labels the worker, fee and referral legs of one approval (0.868413ms)
+ℹ tests 7
+ℹ pass 7
+ℹ fail 0

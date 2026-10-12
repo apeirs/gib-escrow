@@ -105,6 +105,9 @@ $ gib-escrow scan --min 1
 
 Full outputs are in [`examples/`](examples/).
 
+**Demo video** (56 s, terminal replay of the real runs above): [media/gib-escrow-demo.mp4](media/gib-escrow-demo.mp4).
+Screenshots: [check](media/check.png) · [scan](media/scan.png) · [stranded](media/stranded.png) · [MCP](media/mcp.png)
+
 ## MCP server (for agents)
 
 ```json

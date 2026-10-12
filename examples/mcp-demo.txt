@@ -1,0 +1,4 @@
+tools: check_bounty_funding, scan_funded_bounties, list_stranded_escrows
+check_bounty_funding(1052f22d-3f87-4b1d-b0d7-71a60679e7fa) -> FUNDED, 1000 USDC left
+  note: room for 20 more minimum payout(s) of 50.00 vs 11 pending submission(s)
+  note: creator inactive for 34 days (Gibwork health: Stale)
