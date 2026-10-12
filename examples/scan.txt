@@ -1,0 +1,46 @@
+48 live escrows on chain, 8 bounties on the open feed
+
+      left    listed  subs  left/sub  title
+ 1000 USDC      1000    11     83.33  Gibwork Developer Hackathon Bounty
+  300 USDC       300    45      6.52  Create a UGC Video Bounty for the Gibwork Mobile App
+200 CREDITS       200    45      4.35  Create an X Thread About the Gibwork Mobile App Bounty  [!]
+30.00 USDC     30.00    12      2.31  Invite a UGC Creator to Gibwork and Get a Reply — Round 2
+  125 USDC       125    91      1.36  Invite Users, Earn Points, and Climb the Leaderboard
+ 5.00 USDC      5.00    18      0.26  OGs VS NEWBIES
+10.00 USDC     10.00    51      0.19  Follow, Quote Post & Join the $RKS Telegram
+25.00 USDC       100   232      0.11  What Would You Tell a Friend About BASIS? Pick ONE angle
+120 CREDITS       -     -         -  (not on the open feed) cc14599e-ed38-4bdc-b55a-09cd8f8c1010  [!]
+60.00 USDC         -     -         -  (not on the open feed) 25e7bc36-d09a-5236-8eeb-930200b08446
+50.00 USDC         -     -         -  (not on the open feed) ce839876-bf1f-42b7-914b-dd59f8fea1fb
+25.00 USDC         -     -         -  (not on the open feed) 6d655bbb-80f2-48ed-8dab-63416dea1842
+25.00 USDC         -     -         -  (not on the open feed) c2264782-14a4-4c5b-973f-2158f13f9673
+25.00 USDC         -     -         -  (not on the open feed) 0695edbb-c9c1-4dcd-a257-496658d0cb09
+20.00 USDC         -     -         -  (not on the open feed) d47feaff-8dcd-4831-89df-0a1ea2209fb2
+20.00 USDC         -     -         -  (not on the open feed) 44fd579f-11e2-47e2-b19e-7698151df1dd
+19.00 USDC         -     -         -  (not on the open feed) f8d270dd-99ba-43d7-8172-2859565bbb88
+17.00 USDC         -     -         -  (not on the open feed) ccb7c1c5-c524-4cd1-9ab0-8ba08ad18e65
+17.00 USDC         -     -         -  (not on the open feed) b3efd4c5-3eed-47ed-9159-4acdc7eb648c
+10.00 USDC         -     -         -  (not on the open feed) 675c222b-28f9-42b6-8de8-d938617efb74
+10.00 USDC         -     -         -  (not on the open feed) d389b565-8c47-4de6-ac4f-22f9170223e7
+10.00 USDC         -     -         -  (not on the open feed) e7237c35-535b-483f-96fa-0aa23e663082
+10.00 USDC         -     -         -  (not on the open feed) 60f10be7-4055-4765-a4d3-7de68c170cd3
+ 5.00 USDC         -     -         -  (not on the open feed) 78fac541-f356-4456-a2e6-606e12865708
+ 5.00 USDC         -     -         -  (not on the open feed) 79ca8c74-c176-40e8-a2ee-5825282f8f5b
+ 4.00 USDC         -     -         -  (not on the open feed) 18ccc3d3-789d-40bf-a061-ac1a8f2db790
+ 2.00 USDC         -     -         -  (not on the open feed) 378b8fcc-e3b7-47e8-851f-fd140de441c5
+ 2.00 USDC         -     -         -  (not on the open feed) 2ba96e10-a95c-4678-b4cf-10615f8858a5
+ 1.10 USDC         -     -         -  (not on the open feed) d651cba0-2a45-44a0-83c3-12b8e8fc509e
+ 1.00 USDC         -     -         -  (not on the open feed) 36ce6e36-9656-46da-bbb8-777ae5ac13a0
+ 1.00 USDC         -     -         -  (not on the open feed) d18abc5f-b6d5-4163-891e-89e6c3258da3
+ 1.00 USDC         -     -         -  (not on the open feed) e001aadc-dbf8-409b-bd94-7c6b927830e8
+ 1.00 USDC         -     -         -  (not on the open feed) 5bfa0dd2-cbaa-46d0-9b5f-a1bb04ee0cb5
+ 1.00 USDC         -     -         -  (not on the open feed) 07d40cd0-3a82-4adc-beca-3226fb0ad056
+ 1.00 USDC         -     -         -  (not on the open feed) e1ce543c-e6eb-4a20-b1a8-b304a6d7e3d0
+ 1.00 USDC         -     -         -  (not on the open feed) bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1
+ 1.00 USDC         -     -         -  (not on the open feed) cb4d03a5-06b3-4e7c-9409-88e91146b8f1
+ 1.00 USDC         -     -         -  (not on the open feed) bf74b5f3-81f6-41fc-ba06-f49d142165b3
+ 1.00 USDC         -     -         -  (not on the open feed) 7cab04e0-8f9d-42d1-8a76-15f2714c636d
+ 1.00 USDC         -     -         -  (not on the open feed) b6a42462-722d-40b9-9673-29e447c02ed9
+ 1.00 USDC         -     -         -  (not on the open feed) 6c874e26-75c2-4143-a624-5b280cef1344
+
+[!] reward token has a Token-2022 permanent delegate: the issuer can move it out of the escrow at any time

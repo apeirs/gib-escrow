@@ -1,0 +1,16 @@
+{
+  "name": "gib-escrow",
+  "version": "0.1.0",
+  "description": "Check whether a Gibwork bounty is really funded: on-chain escrow balance, payouts and refunds, joined with Gibwork SDK task data. CLI + MCP server.",
+  "type": "module",
+  "bin": { "gib-escrow": "bin/gib-escrow.js", "gib-escrow-mcp": "bin/gib-escrow-mcp.js" },
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test test/" },
+  "license": "MIT",
+  "dependencies": {
+    "@gibwork/sdk": "0.2.0",
+    "@modelcontextprotocol/sdk": "^1.20.0",
+    "@solana/web3.js": "^1.98.0",
+    "zod": "^3.25.0"
+  }
+}

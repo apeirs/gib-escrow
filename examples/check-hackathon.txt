@@ -1,0 +1,10 @@
+Gibwork Developer Hackathon Bounty
+https://gib.work/bounty/1052f22d-3f87-4b1d-b0d7-71a60679e7fa
+verdict     FUNDED
+listing     1000 USDC pool, min payout 50, 11 pending / 0 approved / 0 rejected, deadline 2026-10-30T04:00:00.000Z
+escrow      CPoj222pQE9TTqd8DuXC4Q57dGKgRbXXX9EpTDGhmKfz
+vault       9Nw5KFDj2vZsBJnQiYpKxpr9K2P1UkJGooLX9MtPWaEd
+maker       CdJBwL9X16QaSJgjVayX3xvGwEmYenrzSE4UqywX1BN
+remaining   1000 USDC   (funded 2026-09-08)
+note        room for 20 more minimum payout(s) of 50.00 vs 11 pending submission(s)
+note        creator inactive for 34 days (Gibwork health: Stale)
